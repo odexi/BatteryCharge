@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">W3_D1 Lab1</string>
+    <string name="battery_level">Level:</string>
+    <string name="battery_temperature">Temperature:</string>
+    <string name="battery_status">Status:</string>
+    <string name="battery_charging">Charging</string>
+    <string name="battery_not_charging">Not charging</string>
+    <string name="battery_voltage">Voltage:</string>
+    <string name="battery_health">Health:</string>
+    <string name="health_cold">Cold</string>
+    <string name="health_dead">Dead</string>
+    <string name="health_good">Good</string>
+    <string name="health_overheat">Overheat</string>
+    <string name="health_over_voltage">Over voltage</string>
+    <string name="health_unknown">Unknown</string>
+    <string name="health_unspecified_failure">Unspecified failure</string>
+
+
+</resources>
